@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lautarozerpa
 - 👀 I’m interested in Web design
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP
+- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, SQL
 
 <!---
 lautarozerpa/lautarozerpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
